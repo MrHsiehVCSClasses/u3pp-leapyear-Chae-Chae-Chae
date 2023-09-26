@@ -1,10 +1,11 @@
 package u3pp;
 
-/** 9/22/23 proj
+/** 9/22/23 project 
  * 
  * 
- * @author //Chae Geon Lim at 6300 Honolulu ave house 208 with the password to my garage door being 1127 :)
- *
+ * @author //Chae Geon Lim 
+ * \
+ * 
  */
 
 public class LeapYear {
@@ -38,5 +39,6 @@ public class LeapYear {
 		{
 			return false;
 		}
+		// shouldn't display but rather return values
 	}
 }
